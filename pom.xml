@@ -14,7 +14,7 @@
 	<name>UVK_Service</name>
 	<description>Servicio UVK</description>
 	<properties>
-		<java.version>11</java.version>
+		
 	</properties>
 	<dependencies>
 		<dependency>
