@@ -15,10 +15,10 @@ A RESTful backend service built with **Java**, **Spring Boot 2.6**, and **MySQL*
 
 ## Features
 
-- 🌐 **REST API** — standard HTTP endpoints with JSON request/response
-- 🗄️ **JPA persistence** — entity management with Spring Data repositories
-- 🏗️ **Layered architecture** — Controller → Service → Repository pattern
-- ⚡ **Lombok** — boilerplate-free entity and DTO definitions
+- **REST API** — standard HTTP endpoints with JSON request/response
+- **JPA persistence** — entity management with Spring Data repositories
+- **Layered architecture** — Controller → Service → Repository pattern
+- **Lombok** — boilerplate-free entity and DTO definitions
 
 ## Project Structure
 
